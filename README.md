@@ -40,6 +40,7 @@ Other Tools:
 - AWS CLI
 ## Project Structure
 terraform-dynamodb-auth
+
 terraform/
 main.tf
 variables.tf
@@ -51,6 +52,7 @@ public/
 signup.html
 login.html
 dashboard.html
+
 .env
 .gitignore
 package.json
@@ -131,3 +133,4 @@ Possible improvements include:
 - Docker containerization
 ## Author
 Created as a learning project to demonstrate Infrastructure as Code with Terraform and a simple authentication system using Node.js and DynamoDB.
+
